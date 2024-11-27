@@ -5,5 +5,7 @@
 - ⚡ Fun fact: "I fixed a bug by turning my computer off and on. Old-school solutions still work!"
 
 🌐 Socials:
-www.linkedin.com/in/
-neha-surati-aa1415328
+LinkedIn 
+
+💻 Tech Stack:
+C CSS3 HTML5 JavaScript jQuery Bootstrap  Node.js React.js
